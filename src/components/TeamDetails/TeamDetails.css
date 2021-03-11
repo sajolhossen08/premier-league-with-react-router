@@ -1,0 +1,30 @@
+.team-logo{
+    width: 13%;
+    margin-top: -200px;
+    opacity: 0.9;
+}
+.external-link{
+    font-size: 35px;
+    color: #ffc107;
+}
+
+.description-box{
+    background-color: #c49303;
+    border-radius: 10px;
+    width: 80%;
+    margin: 15px auto ;
+}
+.img-div{
+    width: 40%;
+}
+
+.description-point{
+    width: 60%;
+    margin-left: 20px;
+}
+
+.gender-img{
+    width: 600px;
+    max-width: 100%;
+    margin: 17px auto;
+}

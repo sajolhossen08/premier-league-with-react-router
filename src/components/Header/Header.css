@@ -1,0 +1,16 @@
+.banner-img{
+    height: 240px;
+    width: 100%;
+    opacity: 0.5;
+}
+.centered {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header-title{
+    color: #ffc107;
+    font-weight: 900;
+    font-size: 45px;
+}
